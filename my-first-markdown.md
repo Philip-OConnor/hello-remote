@@ -14,3 +14,7 @@ heading 2
 ------
 
 > Block quotes test
+
+This is a horizontal rule test
+***
+test
